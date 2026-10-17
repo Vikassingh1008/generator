@@ -1,0 +1,28 @@
+.spAppAndPropertyPanelContainer .sp-appBar.spDeThemeAppBar,
+spAppAndPropertyPanelContainer .sp-appBar.spDeThemeAppBar {
+    background: unset;
+    display: none !important;
+}
+
+.mainHeader-116.mainHeader-116.mainHeader-116.mainHeader-116.mainHeader-116 {
+    display: none !important;
+}
+
+.commandBarWrapper .ms-CommandBar {
+
+    display: none !important;
+}
+
+.s_Yo8kY_SIvUI,
+.s_fH4eG_SIvUI {
+
+    display: none !important;
+}
+
+.c_1avbf_St4iq {
+    display: none !important;
+}
+
+.mainHeader-237.mainHeader-237.mainHeader-237.mainHeader-237.mainHeader-237 {
+    display: none !important;
+}
